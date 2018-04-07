@@ -1,7 +1,6 @@
 <p align="center">
-  <img alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/babel.png" width="300">
-  <h1 style='display:inline-block'>ESLint</h1>
-  <img src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha test framework" width="300"/>
+  <img  alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/babel.png" width="250">
+  <img src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha test framework" width="200"/>
 </p>
 
 # js-boilerplate
