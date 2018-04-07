@@ -1,6 +1,7 @@
 <p align="center">
   <img  alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/babel.png" width="250">
   <img src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha test framework" width="200"/>
+  <img src="https://eslint.org/img/logo.svg" alt="Mocha test framework" width="200"/>
 </p>
 
 # js-boilerplate
@@ -11,12 +12,12 @@ To create a simple boilerplate for quickly getting up and running with a modern,
 - `.eslintrc.json` configured to use airbnb standard and compatible with mocha.
 - `package.json` -- with scripts using all dev-dependencies installed locally.
 - `npm` scripts:
--- `lint` - Lints the `src/` directory.
--- `fix` - Fixes the `src/` directory via eslint --fix.
--- `build` - Uses babel to transpile `src/` to `build/` directory.
--- `watch` - Runs the build script anytime a file in src/ is changed.
--- `test` - Runs a simple mocha test on the `build/test.js` file.
--- `start` - Runs `build/index.js` using node.js
+  - `lint` - Lints the `src/` directory.
+  - `fix` - Fixes the `src/` directory via eslint --fix.
+  - `build` - Uses babel to transpile `src/` to `build/` directory.
+  - `watch` - Runs the build script anytime a file in src/ is changed.
+  - `test` - Runs a simple mocha test on the `build/test.js` file.
+  - `start` - Runs `build/index.js` using node.js
 
 ## Getting started
 - Clone the repo.
