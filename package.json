@@ -13,14 +13,14 @@
     "start": "node build/index.js"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/bingotree/js-boilerplate.git"
+    "type": "git",
+    "url": "https://github.com/bingotree/js-boilerplate.git"
   },
   "author": "Brian Duncan",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
